@@ -10,10 +10,10 @@ Open 'Sharp' and find the close chargers.
 ![First screen](sharp_d.png)
 
 
-####Technologies
+#### Technologies
 * Firebase
 * Android Studio
 * Google Maps
 
-####Credits
+#### Credits
 *{HackExtend}*, A special Hackathon by *Microsoft* and more.
